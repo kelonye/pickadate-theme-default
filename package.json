@@ -1,0 +1,7 @@
+{
+  "name": "pickadate",
+  "private": true,
+  "dependencies": {
+    "component-hooks": "0.2.5"
+  }
+}
