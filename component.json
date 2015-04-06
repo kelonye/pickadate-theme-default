@@ -1,8 +1,8 @@
 {
   "name": "pickadate-theme-default",
-  "version": "3.5.3",
+  "version": "3.5.5",
   "development": {
-    "kelonye/pickadate": "3.5.3"
+    "kelonye/pickadate": "3.5.5"
   },
   "scripts": [
   ],
