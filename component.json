@@ -1,10 +1,12 @@
 {
   "name": "pickadate-theme-default",
-  "version": "3.5.5",
-  "development": {
-    "kelonye/pickadate": "3.5.5"
+  "version": "3.5.6",
+  "dependencies": {
+    "kelonye/pickadate": "3.5.6"
   },
+  "main": "lib/index.js",
   "scripts": [
+    "lib/index.js"
   ],
   "styles": [
     "lib/default.css",
