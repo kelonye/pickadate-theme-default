@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "local": [
+    "pickadate-theme-default"
+  ],
+  "paths": [
+    ".",
+    "../../.."
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
